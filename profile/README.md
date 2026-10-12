@@ -63,6 +63,15 @@ server to pay for. No bandwidth bill, no queue, nothing to police with an accoun
 | [security.txt field reference](https://utilumo.com/reference/security-txt-fields) | Every field, with examples |
 | [robots.txt directives reference](https://utilumo.com/reference/robots-txt-directives) | Directives and precedence |
 
+## Open source
+
+Utilumo itself is closed, but pieces of it are not:
+
+| Repo | What it is |
+|---|---|
+| [`bpm-key-detect`](https://github.com/Utilumo/bpm-key-detect) | The tempo and musical-key engine behind the Song Analyzer, extracted as a zero-dependency package for browser and Node |
+| [`utilumo-stack`](https://github.com/Utilumo/utilumo-stack) | The libraries and browser APIs that make real file work possible without a server |
+
 ## Open data
 
 [Browser tool privacy snapshot](https://utilumo.com/research/browser-tool-privacy-snapshot)
